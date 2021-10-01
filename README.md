@@ -1,4 +1,14 @@
-### Hi there 👋
+### Open Source Chemistry Project
+
+--> Everyone having chmistry knowldge can contribute in this project
+--> Only quality PR's with good changes will be accepted
+--> Organic Inorganic will be prior while physical will be sorted out later
+
+## Chemistry's PYQ's can be placed with solution
+
+# Can create a table of content for youtube solution of PMS's sir's books
+
+# Bootstrap only accepted , no custom css allowed until i review changes
 
 <!--
 **pmssir/pmssir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
